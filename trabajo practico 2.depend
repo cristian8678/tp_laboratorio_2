@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1505951602 source:e:\trabajo practico 2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1505949870 e:\trabajo practico 2\funciones.h
+
+1505951462 source:e:\trabajo practico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<conio.h>
+	"funciones.h"
+
+1506028856 source:f:\trabajo practico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<conio.h>
+	"funciones.h"
+
+1506085707 f:\trabajo practico 2\funciones.h
+
+1506107618 source:f:\trabajo practico 2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
